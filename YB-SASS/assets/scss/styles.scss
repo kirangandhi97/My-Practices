@@ -9,15 +9,17 @@ html,body{
     box-sizing: border-box;
 }
 
+// main wrapper
+.main-wrapper{
+    height: 100%;
+    width: 60%;
+}
 
-// common css
-// .h-100{
-//     height: 100%;
-// }
-// .d-flex{
-//     display: flex;
-// }
-// .flex-column{
-//     flex-direction: column;
-// }
+// header 
+.header{
+    background-color: crimson;
+}
+.nav .nav-list{
+    display: flex;
+}
 

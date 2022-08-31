@@ -9,4 +9,15 @@ html, body {
   box-sizing: border-box;
 }
 
-/*# sourceMappingURL=styles.css.map */
+.main-wrapper {
+  height: 100%;
+  width: 60%;
+}
+
+.header {
+  background-color: crimson;
+}
+
+.nav .nav-list {
+  display: flex;
+}/*# sourceMappingURL=styles.css.map */
